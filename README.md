@@ -1,4 +1,4 @@
-# NLP Attention Alteration in Transformers for Debiasing
+# Attention Alteration in Transformers for Debiasing
 
 ## Overview
 This project addresses the issue of bias in transformer-based NLP models by modifying the attention mechanism. The goal is to ensure equal weights are given to all demographic groups in the input data, thereby reducing harmful associations while maintaining the semantic understanding of the original encoder.
